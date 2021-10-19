@@ -1,4 +1,4 @@
 {
   "nodeVersion":"12",
-  "setupTasks: ["yarn"]
+  "setupTasks": ["yarn"]
 }
